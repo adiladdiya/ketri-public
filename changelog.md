@@ -232,3 +232,12 @@ Add the new file daring-hound.txt and generating the release 0.26.0.
 
 - [KATRI-0026](http://tickets.ketri.github.com/browse/KATRI-0026)
   Add some realy needed feature like Adding new file daring-hound.txt.
+
+## [0.27.0] - 2022-01-$27
+
+Add the new file super-teal.txt and generating the release 0.27.0.
+
+### Added
+
+- [KATRI-0027](http://tickets.ketri.github.com/browse/KATRI-0027)
+  Add some realy needed feature like Adding new file super-teal.txt.

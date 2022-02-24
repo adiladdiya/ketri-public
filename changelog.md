@@ -106,3 +106,12 @@ Add the new file steady-swan.txt and generating the release 0.12.0.
 
 - [KATRI-0012](http://tickets.ketri.github.com/browse/KATRI-0012)
   Add some realy needed feature like Adding new file steady-swan.txt.
+
+## [0.13.0] - 2022-01-$13
+
+Add the new file neat-marmot.txt and generating the release 0.13.0.
+
+### Added
+
+- [KATRI-0013](http://tickets.ketri.github.com/browse/KATRI-0013)
+  Add some realy needed feature like Adding new file neat-marmot.txt.

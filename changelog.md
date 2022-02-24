@@ -331,3 +331,12 @@ Add the new file comic-cub.txt and generating the release 0.37.0.
 
 - [KATRI-0037](http://tickets.ketri.github.com/browse/KATRI-0037)
   Add some realy needed feature like Adding new file comic-cub.txt.
+
+## [0.38.0] - 2022-01-$38
+
+Add the new file moving-yeti.txt and generating the release 0.38.0.
+
+### Added
+
+- [KATRI-0038](http://tickets.ketri.github.com/browse/KATRI-0038)
+  Add some realy needed feature like Adding new file moving-yeti.txt.

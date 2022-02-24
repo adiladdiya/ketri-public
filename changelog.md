@@ -49,3 +49,12 @@ Add the new file fit-puma.txt and generating the release 0.4.0.
 
 - [KATRI-004](http://tickets.ketri.github.com/browse/KATRI-004)
   Add some realy needed feature like Adding new file fit-puma.txt.
+
+## [0.4.0] - 2022-01-$4
+
+Add the new file amused-slug.txt and generating the release 0.4.0.
+
+### Added
+
+- [KATRI-004](http://tickets.ketri.github.com/browse/KATRI-004)
+  Add some realy needed feature like Adding new file amused-slug.txt.

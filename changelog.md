@@ -196,3 +196,12 @@ Add the new file rare-impala.txt and generating the release 0.22.0.
 
 - [KATRI-0022](http://tickets.ketri.github.com/browse/KATRI-0022)
   Add some realy needed feature like Adding new file rare-impala.txt.
+
+## [0.23.0] - 2022-01-$23
+
+Add the new file fluent-poodle.txt and generating the release 0.23.0.
+
+### Added
+
+- [KATRI-0023](http://tickets.ketri.github.com/browse/KATRI-0023)
+  Add some realy needed feature like Adding new file fluent-poodle.txt.

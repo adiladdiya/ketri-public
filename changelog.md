@@ -40,3 +40,12 @@ Add the new file firm-shark.txt and generating the release 0.3.0.
 
 - [KATRI-003](http://tickets.ketri.github.com/browse/KATRI-003)
   Add some realy needed feature like Adding new file firm-shark.txt.
+
+## [0.4.0] - 2022-01-$4
+
+Add the new file fit-puma.txt and generating the release 0.4.0.
+
+### Added
+
+- [KATRI-004](http://tickets.ketri.github.com/browse/KATRI-004)
+  Add some realy needed feature like Adding new file fit-puma.txt.

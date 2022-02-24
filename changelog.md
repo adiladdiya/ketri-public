@@ -88,3 +88,12 @@ Add the new file fresh-lion.txt and generating the release 0.10.0.
 
 - [KATRI-0010](http://tickets.ketri.github.com/browse/KATRI-0010)
   Add some realy needed feature like Adding new file fresh-lion.txt.
+
+## [0.11.0] - 2022-01-$11
+
+Add the new file ruling-bird.txt and generating the release 0.11.0.
+
+### Added
+
+- [KATRI-0011](http://tickets.ketri.github.com/browse/KATRI-0011)
+  Add some realy needed feature like Adding new file ruling-bird.txt.

@@ -142,3 +142,12 @@ Add the new file fond-beagle.txt and generating the release 0.16.0.
 
 - [KATRI-0016](http://tickets.ketri.github.com/browse/KATRI-0016)
   Add some realy needed feature like Adding new file fond-beagle.txt.
+
+## [0.17.0] - 2022-01-$17
+
+Add the new file more-bedbug.txt and generating the release 0.17.0.
+
+### Added
+
+- [KATRI-0017](http://tickets.ketri.github.com/browse/KATRI-0017)
+  Add some realy needed feature like Adding new file more-bedbug.txt.

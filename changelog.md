@@ -295,3 +295,12 @@ Add the new file kind-goose.txt and generating the release 0.33.0.
 
 - [KATRI-0033](http://tickets.ketri.github.com/browse/KATRI-0033)
   Add some realy needed feature like Adding new file kind-goose.txt.
+
+## [0.34.0] - 2022-01-$34
+
+Add the new file secure-dog.txt and generating the release 0.34.0.
+
+### Added
+
+- [KATRI-0034](http://tickets.ketri.github.com/browse/KATRI-0034)
+  Add some realy needed feature like Adding new file secure-dog.txt.

@@ -178,3 +178,12 @@ Add the new file keen-ibex.txt and generating the release 0.20.0.
 
 - [KATRI-0020](http://tickets.ketri.github.com/browse/KATRI-0020)
   Add some realy needed feature like Adding new file keen-ibex.txt.
+
+## [0.21.0] - 2022-01-$21
+
+Add the new file steady-ferret.txt and generating the release 0.21.0.
+
+### Added
+
+- [KATRI-0021](http://tickets.ketri.github.com/browse/KATRI-0021)
+  Add some realy needed feature like Adding new file steady-ferret.txt.

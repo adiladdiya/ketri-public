@@ -223,3 +223,12 @@ Add the new file just-earwig.txt and generating the release 0.25.0.
 
 - [KATRI-0025](http://tickets.ketri.github.com/browse/KATRI-0025)
   Add some realy needed feature like Adding new file just-earwig.txt.
+
+## [0.26.0] - 2022-01-$26
+
+Add the new file daring-hound.txt and generating the release 0.26.0.
+
+### Added
+
+- [KATRI-0026](http://tickets.ketri.github.com/browse/KATRI-0026)
+  Add some realy needed feature like Adding new file daring-hound.txt.

@@ -133,3 +133,12 @@ Add the new file usable-earwig.txt and generating the release 0.15.0.
 
 - [KATRI-0015](http://tickets.ketri.github.com/browse/KATRI-0015)
   Add some realy needed feature like Adding new file usable-earwig.txt.
+
+## [0.16.0] - 2022-01-$16
+
+Add the new file fond-beagle.txt and generating the release 0.16.0.
+
+### Added
+
+- [KATRI-0016](http://tickets.ketri.github.com/browse/KATRI-0016)
+  Add some realy needed feature like Adding new file fond-beagle.txt.

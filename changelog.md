@@ -358,3 +358,12 @@ Add the new file alert-cub.txt and generating the release 0.40.0.
 
 - [KATRI-0040](http://tickets.ketri.github.com/browse/KATRI-0040)
   Add some realy needed feature like Adding new file alert-cub.txt.
+
+## [0.41.0] - 2022-01-$41
+
+Add the new file one-toucan.txt and generating the release 0.41.0.
+
+### Added
+
+- [KATRI-0041](http://tickets.ketri.github.com/browse/KATRI-0041)
+  Add some realy needed feature like Adding new file one-toucan.txt.

@@ -286,3 +286,12 @@ Add the new file worthy-wolf.txt and generating the release 0.32.0.
 
 - [KATRI-0032](http://tickets.ketri.github.com/browse/KATRI-0032)
   Add some realy needed feature like Adding new file worthy-wolf.txt.
+
+## [0.33.0] - 2022-01-$33
+
+Add the new file kind-goose.txt and generating the release 0.33.0.
+
+### Added
+
+- [KATRI-0033](http://tickets.ketri.github.com/browse/KATRI-0033)
+  Add some realy needed feature like Adding new file kind-goose.txt.

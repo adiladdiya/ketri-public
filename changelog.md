@@ -79,3 +79,12 @@ Add the new file ready-stag.txt and generating the release 0.9.0.
 
 - [KATRI-009](http://tickets.ketri.github.com/browse/KATRI-009)
   Add some realy needed feature like Adding new file ready-stag.txt.
+
+## [0.10.0] - 2022-01-$10
+
+Add the new file fresh-lion.txt and generating the release 0.10.0.
+
+### Added
+
+- [KATRI-0010](http://tickets.ketri.github.com/browse/KATRI-0010)
+  Add some realy needed feature like Adding new file fresh-lion.txt.

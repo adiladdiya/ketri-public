@@ -43,3 +43,12 @@ Add the new file usable-hawk.txt and generating the release 0.5.0.
 
 - [KATRI-005](http://tickets.ketri.github.com/browse/KATRI-005)
   Add some realy needed feature like Adding new file usable-hawk.txt.
+
+## [0.6.0] - 2022-01-$6
+
+Add the new file valued-foal.txt and generating the release 0.6.0.
+
+### Added
+
+- [KATRI-006](http://tickets.ketri.github.com/browse/KATRI-006)
+  Add some realy needed feature like Adding new file valued-foal.txt.

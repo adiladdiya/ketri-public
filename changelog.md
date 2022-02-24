@@ -151,3 +151,12 @@ Add the new file more-bedbug.txt and generating the release 0.17.0.
 
 - [KATRI-0017](http://tickets.ketri.github.com/browse/KATRI-0017)
   Add some realy needed feature like Adding new file more-bedbug.txt.
+
+## [0.18.0] - 2022-01-$18
+
+Add the new file modest-bison.txt and generating the release 0.18.0.
+
+### Added
+
+- [KATRI-0018](http://tickets.ketri.github.com/browse/KATRI-0018)
+  Add some realy needed feature like Adding new file modest-bison.txt.

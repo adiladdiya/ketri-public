@@ -97,3 +97,12 @@ Add the new file ruling-bird.txt and generating the release 0.11.0.
 
 - [KATRI-0011](http://tickets.ketri.github.com/browse/KATRI-0011)
   Add some realy needed feature like Adding new file ruling-bird.txt.
+
+## [0.12.0] - 2022-01-$12
+
+Add the new file steady-swan.txt and generating the release 0.12.0.
+
+### Added
+
+- [KATRI-0012](http://tickets.ketri.github.com/browse/KATRI-0012)
+  Add some realy needed feature like Adding new file steady-swan.txt.

@@ -70,3 +70,12 @@ Add the new file prompt-alpaca.txt and generating the release 0.8.0.
 
 - [KATRI-008](http://tickets.ketri.github.com/browse/KATRI-008)
   Add some realy needed feature like Adding new file prompt-alpaca.txt.
+
+## [0.9.0] - 2022-01-$9
+
+Add the new file ready-stag.txt and generating the release 0.9.0.
+
+### Added
+
+- [KATRI-009](http://tickets.ketri.github.com/browse/KATRI-009)
+  Add some realy needed feature like Adding new file ready-stag.txt.

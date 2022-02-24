@@ -313,3 +313,12 @@ Add the new file hardy-lemur.txt and generating the release 0.35.0.
 
 - [KATRI-0035](http://tickets.ketri.github.com/browse/KATRI-0035)
   Add some realy needed feature like Adding new file hardy-lemur.txt.
+
+## [0.36.0] - 2022-01-$36
+
+Add the new file neat-wasp.txt and generating the release 0.36.0.
+
+### Added
+
+- [KATRI-0036](http://tickets.ketri.github.com/browse/KATRI-0036)
+  Add some realy needed feature like Adding new file neat-wasp.txt.

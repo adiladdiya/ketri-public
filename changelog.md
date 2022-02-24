@@ -169,3 +169,12 @@ Add the new file holy-bison.txt and generating the release 0.19.0.
 
 - [KATRI-0019](http://tickets.ketri.github.com/browse/KATRI-0019)
   Add some realy needed feature like Adding new file holy-bison.txt.
+
+## [0.20.0] - 2022-01-$20
+
+Add the new file keen-ibex.txt and generating the release 0.20.0.
+
+### Added
+
+- [KATRI-0020](http://tickets.ketri.github.com/browse/KATRI-0020)
+  Add some realy needed feature like Adding new file keen-ibex.txt.

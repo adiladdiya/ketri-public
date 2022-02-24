@@ -250,3 +250,12 @@ Add the new file loyal-zebra.txt and generating the release 0.28.0.
 
 - [KATRI-0028](http://tickets.ketri.github.com/browse/KATRI-0028)
   Add some realy needed feature like Adding new file loyal-zebra.txt.
+
+## [0.29.0] - 2022-01-$29
+
+Add the new file safe-pika.txt and generating the release 0.29.0.
+
+### Added
+
+- [KATRI-0029](http://tickets.ketri.github.com/browse/KATRI-0029)
+  Add some realy needed feature like Adding new file safe-pika.txt.

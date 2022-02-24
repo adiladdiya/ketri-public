@@ -277,3 +277,12 @@ Add the new file pure-dragon.txt and generating the release 0.31.0.
 
 - [KATRI-0031](http://tickets.ketri.github.com/browse/KATRI-0031)
   Add some realy needed feature like Adding new file pure-dragon.txt.
+
+## [0.32.0] - 2022-01-$32
+
+Add the new file worthy-wolf.txt and generating the release 0.32.0.
+
+### Added
+
+- [KATRI-0032](http://tickets.ketri.github.com/browse/KATRI-0032)
+  Add some realy needed feature like Adding new file worthy-wolf.txt.

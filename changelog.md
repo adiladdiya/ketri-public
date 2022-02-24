@@ -268,3 +268,12 @@ Add the new file better-zebra.txt and generating the release 0.30.0.
 
 - [KATRI-0030](http://tickets.ketri.github.com/browse/KATRI-0030)
   Add some realy needed feature like Adding new file better-zebra.txt.
+
+## [0.31.0] - 2022-01-$31
+
+Add the new file pure-dragon.txt and generating the release 0.31.0.
+
+### Added
+
+- [KATRI-0031](http://tickets.ketri.github.com/browse/KATRI-0031)
+  Add some realy needed feature like Adding new file pure-dragon.txt.

@@ -214,3 +214,12 @@ Add the new file fit-egret.txt and generating the release 0.24.0.
 
 - [KATRI-0024](http://tickets.ketri.github.com/browse/KATRI-0024)
   Add some realy needed feature like Adding new file fit-egret.txt.
+
+## [0.25.0] - 2022-01-$25
+
+Add the new file just-earwig.txt and generating the release 0.25.0.
+
+### Added
+
+- [KATRI-0025](http://tickets.ketri.github.com/browse/KATRI-0025)
+  Add some realy needed feature like Adding new file just-earwig.txt.

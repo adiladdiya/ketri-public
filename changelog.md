@@ -322,3 +322,12 @@ Add the new file neat-wasp.txt and generating the release 0.36.0.
 
 - [KATRI-0036](http://tickets.ketri.github.com/browse/KATRI-0036)
   Add some realy needed feature like Adding new file neat-wasp.txt.
+
+## [0.37.0] - 2022-01-$37
+
+Add the new file comic-cub.txt and generating the release 0.37.0.
+
+### Added
+
+- [KATRI-0037](http://tickets.ketri.github.com/browse/KATRI-0037)
+  Add some realy needed feature like Adding new file comic-cub.txt.

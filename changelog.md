@@ -304,3 +304,12 @@ Add the new file secure-dog.txt and generating the release 0.34.0.
 
 - [KATRI-0034](http://tickets.ketri.github.com/browse/KATRI-0034)
   Add some realy needed feature like Adding new file secure-dog.txt.
+
+## [0.35.0] - 2022-01-$35
+
+Add the new file hardy-lemur.txt and generating the release 0.35.0.
+
+### Added
+
+- [KATRI-0035](http://tickets.ketri.github.com/browse/KATRI-0035)
+  Add some realy needed feature like Adding new file hardy-lemur.txt.

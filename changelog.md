@@ -25,3 +25,12 @@ Add the new file alert-tetra.txt and generating the release 0.3.0.
 
 - [KATRI-003](http://tickets.ketri.github.com/browse/KATRI-003)
   Add some realy needed feature like Adding new file alert-tetra.txt.
+
+## [0.4.0] - 2022-01-$4
+
+Add the new file loved-tarpon.txt and generating the release 0.4.0.
+
+### Added
+
+- [KATRI-004](http://tickets.ketri.github.com/browse/KATRI-004)
+  Add some realy needed feature like Adding new file loved-tarpon.txt.

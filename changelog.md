@@ -241,3 +241,12 @@ Add the new file super-teal.txt and generating the release 0.27.0.
 
 - [KATRI-0027](http://tickets.ketri.github.com/browse/KATRI-0027)
   Add some realy needed feature like Adding new file super-teal.txt.
+
+## [0.28.0] - 2022-01-$28
+
+Add the new file loyal-zebra.txt and generating the release 0.28.0.
+
+### Added
+
+- [KATRI-0028](http://tickets.ketri.github.com/browse/KATRI-0028)
+  Add some realy needed feature like Adding new file loyal-zebra.txt.

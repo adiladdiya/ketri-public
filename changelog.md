@@ -340,3 +340,12 @@ Add the new file moving-yeti.txt and generating the release 0.38.0.
 
 - [KATRI-0038](http://tickets.ketri.github.com/browse/KATRI-0038)
   Add some realy needed feature like Adding new file moving-yeti.txt.
+
+## [0.39.0] - 2022-01-$39
+
+Add the new file on-dane.txt and generating the release 0.39.0.
+
+### Added
+
+- [KATRI-0039](http://tickets.ketri.github.com/browse/KATRI-0039)
+  Add some realy needed feature like Adding new file on-dane.txt.

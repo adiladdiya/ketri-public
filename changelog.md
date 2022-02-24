@@ -349,3 +349,12 @@ Add the new file on-dane.txt and generating the release 0.39.0.
 
 - [KATRI-0039](http://tickets.ketri.github.com/browse/KATRI-0039)
   Add some realy needed feature like Adding new file on-dane.txt.
+
+## [0.40.0] - 2022-01-$40
+
+Add the new file alert-cub.txt and generating the release 0.40.0.
+
+### Added
+
+- [KATRI-0040](http://tickets.ketri.github.com/browse/KATRI-0040)
+  Add some realy needed feature like Adding new file alert-cub.txt.

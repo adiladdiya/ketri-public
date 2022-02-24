@@ -205,3 +205,12 @@ Add the new file fluent-poodle.txt and generating the release 0.23.0.
 
 - [KATRI-0023](http://tickets.ketri.github.com/browse/KATRI-0023)
   Add some realy needed feature like Adding new file fluent-poodle.txt.
+
+## [0.24.0] - 2022-01-$24
+
+Add the new file fit-egret.txt and generating the release 0.24.0.
+
+### Added
+
+- [KATRI-0024](http://tickets.ketri.github.com/browse/KATRI-0024)
+  Add some realy needed feature like Adding new file fit-egret.txt.

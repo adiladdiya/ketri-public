@@ -34,3 +34,12 @@ Add the new file loved-tarpon.txt and generating the release 0.4.0.
 
 - [KATRI-004](http://tickets.ketri.github.com/browse/KATRI-004)
   Add some realy needed feature like Adding new file loved-tarpon.txt.
+
+## [0.5.0] - 2022-01-$5
+
+Add the new file usable-hawk.txt and generating the release 0.5.0.
+
+### Added
+
+- [KATRI-005](http://tickets.ketri.github.com/browse/KATRI-005)
+  Add some realy needed feature like Adding new file usable-hawk.txt.

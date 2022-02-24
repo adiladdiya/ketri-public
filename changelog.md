@@ -259,3 +259,12 @@ Add the new file safe-pika.txt and generating the release 0.29.0.
 
 - [KATRI-0029](http://tickets.ketri.github.com/browse/KATRI-0029)
   Add some realy needed feature like Adding new file safe-pika.txt.
+
+## [0.30.0] - 2022-01-$30
+
+Add the new file better-zebra.txt and generating the release 0.30.0.
+
+### Added
+
+- [KATRI-0030](http://tickets.ketri.github.com/browse/KATRI-0030)
+  Add some realy needed feature like Adding new file better-zebra.txt.

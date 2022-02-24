@@ -160,3 +160,12 @@ Add the new file modest-bison.txt and generating the release 0.18.0.
 
 - [KATRI-0018](http://tickets.ketri.github.com/browse/KATRI-0018)
   Add some realy needed feature like Adding new file modest-bison.txt.
+
+## [0.19.0] - 2022-01-$19
+
+Add the new file holy-bison.txt and generating the release 0.19.0.
+
+### Added
+
+- [KATRI-0019](http://tickets.ketri.github.com/browse/KATRI-0019)
+  Add some realy needed feature like Adding new file holy-bison.txt.

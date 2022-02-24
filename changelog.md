@@ -14,21 +14,11 @@ Here we would have the update steps for 1.2.4 for people to follow.
 
 - [KATRI-001](http://tickets.ketri.github.com/browse/KATRI-001)
   PATCH Drupal.org is now used for composer.
-
 ## [0.2.0] - 2022-01-$2
 
-Add the new file united-badger.txt and generating the release 0.2.0.
+Add the new file expert-hog.txt and generating the release 0.2.0.
 
 ### Added
 
 - [KATRI-002](http://tickets.ketri.github.com/browse/KATRI-002)
-  Add some realy needed feature like Adding new file united-badger.txt.
-
-## [0.2.0] - 2022-01-$2
-
-Add the new file cool-pug.txt and generating the release 0.2.0.
-
-### Added
-
-- [KATRI-002](http://tickets.ketri.github.com/browse/KATRI-002)
-  Add some realy needed feature like Adding new file cool-pug.txt.
+  Add some realy needed feature like Adding new file expert-hog.txt.

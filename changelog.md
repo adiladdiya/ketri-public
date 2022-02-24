@@ -124,3 +124,12 @@ Add the new file tops-urchin.txt and generating the release 0.14.0.
 
 - [KATRI-0014](http://tickets.ketri.github.com/browse/KATRI-0014)
   Add some realy needed feature like Adding new file tops-urchin.txt.
+
+## [0.15.0] - 2022-01-$15
+
+Add the new file usable-earwig.txt and generating the release 0.15.0.
+
+### Added
+
+- [KATRI-0015](http://tickets.ketri.github.com/browse/KATRI-0015)
+  Add some realy needed feature like Adding new file usable-earwig.txt.

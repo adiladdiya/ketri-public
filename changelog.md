@@ -22,3 +22,12 @@ Add the new file expert-hog.txt and generating the release 0.2.0.
 
 - [KATRI-002](http://tickets.ketri.github.com/browse/KATRI-002)
   Add some realy needed feature like Adding new file expert-hog.txt.
+
+## [0.3.0] - 2022-01-$3
+
+Add the new file model-moose.txt and generating the release 0.3.0.
+
+### Added
+
+- [KATRI-003](http://tickets.ketri.github.com/browse/KATRI-003)
+  Add some realy needed feature like Adding new file model-moose.txt.

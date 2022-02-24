@@ -61,3 +61,12 @@ Add the new file brave-wren.txt and generating the release 0.7.0.
 
 - [KATRI-007](http://tickets.ketri.github.com/browse/KATRI-007)
   Add some realy needed feature like Adding new file brave-wren.txt.
+
+## [0.8.0] - 2022-01-$8
+
+Add the new file prompt-alpaca.txt and generating the release 0.8.0.
+
+### Added
+
+- [KATRI-008](http://tickets.ketri.github.com/browse/KATRI-008)
+  Add some realy needed feature like Adding new file prompt-alpaca.txt.

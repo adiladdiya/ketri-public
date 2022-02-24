@@ -187,3 +187,12 @@ Add the new file steady-ferret.txt and generating the release 0.21.0.
 
 - [KATRI-0021](http://tickets.ketri.github.com/browse/KATRI-0021)
   Add some realy needed feature like Adding new file steady-ferret.txt.
+
+## [0.22.0] - 2022-01-$22
+
+Add the new file rare-impala.txt and generating the release 0.22.0.
+
+### Added
+
+- [KATRI-0022](http://tickets.ketri.github.com/browse/KATRI-0022)
+  Add some realy needed feature like Adding new file rare-impala.txt.

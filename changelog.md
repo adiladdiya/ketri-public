@@ -52,3 +52,12 @@ Add the new file valued-foal.txt and generating the release 0.6.0.
 
 - [KATRI-006](http://tickets.ketri.github.com/browse/KATRI-006)
   Add some realy needed feature like Adding new file valued-foal.txt.
+
+## [0.7.0] - 2022-01-$7
+
+Add the new file brave-wren.txt and generating the release 0.7.0.
+
+### Added
+
+- [KATRI-007](http://tickets.ketri.github.com/browse/KATRI-007)
+  Add some realy needed feature like Adding new file brave-wren.txt.
